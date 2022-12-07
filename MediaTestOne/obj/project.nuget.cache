@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "un3KWqiM/b4U3etnuWZeGprfro3rg3PJtiiim7MxMzzVUxtScG6eFRHgM7syab9AoN3SGiBCdfdxT9pCAXCQrg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\majki\\source\\MediaTestOne\\MediaTestOne\\MediaTestOne.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\majki\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.26\\microsoft.windows.sdk.net.ref.10.0.19041.26.nupkg.sha512"
+  ],
+  "logs": []
+}

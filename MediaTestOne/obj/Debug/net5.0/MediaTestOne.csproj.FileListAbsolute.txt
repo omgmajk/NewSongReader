@@ -1,0 +1,1 @@
+C:\Users\majki\source\repos\MediaTestOne\MediaTestOne\obj\Debug\net5.0\MediaTestOne.csproj.AssemblyReference.cache

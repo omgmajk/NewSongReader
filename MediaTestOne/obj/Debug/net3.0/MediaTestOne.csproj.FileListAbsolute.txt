@@ -1,0 +1,6 @@
+C:\Users\majki\source\repos\MediaTestOne\MediaTestOne\obj\Debug\net3.0\MediaTestOne.csproj.AssemblyReference.cache
+C:\Users\majki\source\repos\MediaTestOne\MediaTestOne\obj\Debug\net3.0\MediaTestOne.csproj.SuggestedBindingRedirects.cache
+C:\Users\majki\source\repos\MediaTestOne\MediaTestOne\obj\Debug\net3.0\MediaTestOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\majki\source\repos\MediaTestOne\MediaTestOne\obj\Debug\net3.0\MediaTestOne.AssemblyInfoInputs.cache
+C:\Users\majki\source\repos\MediaTestOne\MediaTestOne\obj\Debug\net3.0\MediaTestOne.AssemblyInfo.cs
+C:\Users\majki\source\repos\MediaTestOne\MediaTestOne\obj\Debug\net3.0\MediaTestOne.csproj.CoreCompileInputs.cache
