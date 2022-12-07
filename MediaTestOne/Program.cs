@@ -11,20 +11,22 @@ public static class Program
         // Storage vars
         string path = @".\Song.txt";
 
+        // Check if file exists
         if(!File.Exists(path))
         {
+            // If not, create it
             using(var myFile = File.Create(path))
             {
-
+                // Do nothing with the file but create it
             }
         }
 
         while (true)
         {
-            // Just a microsleep
+            // Don't check every clock cycle, do some sleeping
             Thread.Sleep(400);
 
-            // Await the methods
+            // Await the tasks below
             var gsmtcsm = await GetSystemMediaTransportControlsSessionManager();
             var mediaProperties = await GetMediaProperties(gsmtcsm.GetCurrentSession());
             
