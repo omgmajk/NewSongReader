@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "un3KWqiM/b4U3etnuWZeGprfro3rg3PJtiiim7MxMzzVUxtScG6eFRHgM7syab9AoN3SGiBCdfdxT9pCAXCQrg==",
+  "dgSpecHash": "+DdE1+OBH8UkPcCHT4mVqNxLFrccxB5a+NFFa9ArturbOnmJChZ5MRJPkSvSXObIV6tbebRMzJc1/DZGow1G8g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\majki\\source\\MediaTestOne\\MediaTestOne\\MediaTestOne.csproj",
+  "projectFilePath": "C:\\Users\\majki\\source\\new-git-repos\\NewSongReader\\MediaTestOne\\MediaTestOne.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\majki\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.26\\microsoft.windows.sdk.net.ref.10.0.19041.26.nupkg.sha512"
   ],

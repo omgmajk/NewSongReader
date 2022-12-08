@@ -50,7 +50,7 @@ public static class Program
                 using (StreamWriter sw = File.CreateText(path))
                 {
                     Console.WriteLine($"Writing {songTitle} to textfile");
-                    sw.WriteLine(songTitle);
+                    sw.WriteLine(songTitle.Trim());
                 }
             } 
             catch

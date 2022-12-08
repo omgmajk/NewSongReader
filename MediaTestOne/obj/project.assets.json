@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\majki\\source\\MediaTestOne\\MediaTestOne\\MediaTestOne.csproj",
+      "projectUniqueName": "C:\\Users\\majki\\source\\new-git-repos\\NewSongReader\\MediaTestOne\\MediaTestOne.csproj",
       "projectName": "MediaTestOne",
-      "projectPath": "C:\\Users\\majki\\source\\MediaTestOne\\MediaTestOne\\MediaTestOne.csproj",
+      "projectPath": "C:\\Users\\majki\\source\\new-git-repos\\NewSongReader\\MediaTestOne\\MediaTestOne.csproj",
       "packagesPath": "C:\\Users\\majki\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\majki\\source\\MediaTestOne\\MediaTestOne\\obj\\",
+      "outputPath": "C:\\Users\\majki\\source\\new-git-repos\\NewSongReader\\MediaTestOne\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
